@@ -1,6 +1,6 @@
 # gamify
 
-A new Flutter project.
+The "Gamify UI" project is a Flutter application that presents a visually appealing interface for browsing and exploring video games. It showcases a collection of games with their cover images, titles, and potentially other details. This project mainly focuses on the functionality and the usage of Scrollable Lists and what are its key features we can use to come up with it in Flutter.
 
 ## Getting Started
 
